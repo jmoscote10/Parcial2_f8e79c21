@@ -49,7 +49,7 @@ export const Inicio = () => {
                   Página 1
                 </text>
               </svg>
-              {/* Imagen que quieres agregar */}
+              
               <img
                 src={carrusel}
                 alt="Imagen de POO"
